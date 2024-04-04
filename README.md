@@ -2,6 +2,9 @@
 01418362 Introduction to Machine Learning
 โดย นาย นนทิพัทธ์ ศรีสุพรรณ 6410406690
 
+# Slide
+https://www.canva.com/design/DAGBY1EvjtU/eOavsbczWTlQoHWeXxFcJQ/edit?utm_content=DAGBY1EvjtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Dataset
 Web Page Phishing Dataset\
 from https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset/code\
